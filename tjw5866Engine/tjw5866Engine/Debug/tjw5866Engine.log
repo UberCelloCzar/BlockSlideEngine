@@ -1,0 +1,12 @@
+﻿  Model.cpp
+  GameObject.cpp
+  Camera.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+  Engine.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Collider.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  tjw5866Engine.vcxproj -> C:\Users\Trevor\Documents\RIT 2155\DSA1\tjw5866Engine\Debug\tjw5866Engine.exe
